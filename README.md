@@ -119,4 +119,4 @@ You may not:
 
 If you made it this far, congratulations.
 
-You now know more about Cambridge than any reasonable person should.https://github.com/NauseatingBeans/Lorehttps://github.com/NauseatingBeans/Lorehttps://github.com/NauseatingBeans/Lorehttps://github.com/NauseatingBeans/Lore
+You now know more about Cambridge than any reasonable person should: https://github.com/NauseatingBeans/Lore
