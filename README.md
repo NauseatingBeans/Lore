@@ -69,23 +69,23 @@ Additional historical records may be added as surviving witnesses recover from t
 ### **Legends of Cambridge**
 | Name | Role | Notoriety | Signature Move | Weakness | Legacy |
 | --- | --- | --- | --- | --- | --- |
-| Drake "The Wappah" Cambridge | Founder, Mayor, General | ★★★★★ | Racist "N-Word" Beam | Common Sense | Built the city on questionable choices |
-| Dr. Doofenshmirtz | Mad Scientist, Inventor | ★★★★☆ | Ethically Ambiguous Experiments | Morality | Created the Cracked Super-Soldiers |
+| Drake "The Wappah" Cambridge | Founder, Mayor, General | ★★★★★ | "N-Word" Beam | Common Sense | Built the city on questionable terms |
+| Dr. Doofenshmirtz | Mad Scientist, Inventor | ★★★★☆ | Ethically Ambiguous Experiments | Morality | Created the (Failed) Cracked Super Soldiers |
 | Helmbecker & Perish | Businessmen, Visionaries | ★★★★☆ | Drug Kingpin Denials | Legal Scrutiny | P&H Milling Group's shadow rulers |
 
 ### **Cambridge Renaissance Pioneers**
 | Name | Role | Notoriety | Signature Move | Weakness | Legacy |
 | --- | --- | --- | --- | --- | --- |
 | Henry Joseph Demarcus Submarine | Bootlegger, Survivor | ★★★★★ | Devil’s Tears Whiskey | Trust Issues | Son of Lady Demarcus Submarine and Joseph Henry, escaped P&H in the world's first submarine |
-| Sir Jesse Pinkman Erle Mitre | Inventor, Eccentric | ★★★★☆ | Instant Sandwich Maker | Over-Engineering | His inventions are questionably revolutionary |
-| Utata | Mysterious Figure | ★★★☆☆ | Xhosa Strippers Legacy | Family Drama | Son of Reverend Thaddeus "Big Daddy" Lovejoy |
+| Sir Jesse Pinkman Erle Mitre | Inventor, Eccentric | ★★★★☆ | Instant Sandwich Maker | Over-Engineering | His inventions are questionable but revolutionary |
+| Utata | Regular dude with a not so regular origin | ★★★☆☆ | Xhosa Strippers Legacy | Family Drama | Son of Reverend Thaddeus "Big Daddy" Lovejoy |
 
 ### **Cambridge Modern People**
 | Name | Alias | Role | Notoriety | Signature Move | Weakness | Legacy |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tyreese | Utata | Legendary Pimp | ★★★★★ | Sloppy Toppy with Bill Gates | Champagne Addiction | Turned pimping into an art form |
-| William G Afton | - | Animatronic Pizza Maker | ★★★★☆ | Murderous Fucky Wucky Godzilla Rampage | Trust Issues | Revolutionized fast food with animatronic pizza makers |
-| R.Pëëzy | Captain Preston | District Founder, Tyrant | ★★★★☆ | Giant Sandwich & Sword Statue | Ego | Founded Preston, ruled with an iron fist and a sandwich |
+| William G Afton | "Davis" | Animatronic Pizza Maker | ★★★★☆ | Murderous Fucky Wucky Godzilla Rampage | Trust Issues | Revolutionized fast food with animatronic pizza makers |
+| R.Pëëzy | Captain Preston | District Founder, Tyrant | ★★★★☆ | Giant Sandwich & Sword Statue | Ego | Founded Preston |
 
 ---
 
@@ -121,7 +121,7 @@ You may:
 You may not:
 
 * Ask historians to verify the lore
-* Cite this repository in academic papers
+* Cite this repository in academic papers (unless absolutely necessary)
 * Hold the authors responsible for any brain damage sustained while reading
 
 ---
