@@ -13,7 +13,7 @@ This repository serves as the official archive of **Cambridge Lore™**, documen
 * The Great Cambridge Opium Cold War
 * The Cracked Super-Soldier Program
 * The Church of the Eternal Hustle
-* Numerous incidents that absolutely did not happen in real life
+* Numerous incidents that absolutely DID happen in real life
 
 ---
 
@@ -42,18 +42,18 @@ Any resemblance to actual historical events, organizations, people, cities, gove
 * **1857** – **Origins of P&H&E**
 * **1858** – **The Founding of Cambridge** 
 * **1859** – **Construction of the City**
----
+
 ### **The Age of Experimentation (1863–1871)**
 * **1863** – **The Cracked Super-Soldier Project**
 * **1868** – **Discovery of Solanaceae**
 * **1870** – **The Crackies Arc**
 * **1871** – **The Great Cambridge Opium Cold War**
----
+
 ### **The Rise of Hustle (1882–1923)**
 * **1882** – **The Pizza War**
 * **1889** – **The Pimpin' Preacher of Preston Street**
 * **1923** – **The Bootlegger's Ballad**
----
+
 ### **Modern Madness (1950–Present)**
 * **1950** – **The Chrome Plated Future**
 * **1961** – **Xhosa Strippers - No Mo’ Xhosa**
