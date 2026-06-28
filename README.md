@@ -38,17 +38,27 @@ Any resemblance to actual historical events, organizations, people, cities, gove
 
 ## 🌎 Timeline
 
-The current archive covers events including:
-
-* **1857** – Origins of P&H&E
-* **1858** – The Founding of Cambridge
-* **1859** – Construction of the City
-* **1863** – The Cracked Super-Soldier Project
-* **1868** – Discovery of Solanaceae
-* **1870** – The Crackies Arc
-* **1871** – The Great Cambridge Opium Cold War
-* **1889** – The Pimpin' Preacher of Preston Street
-* **1923** – The Bootlegger's Ballad
+### **The Birth of a City (1857–1859)**
+* **1857** – **Origins of P&H&E**
+* **1858** – **The Founding of Cambridge** 
+* **1859** – **Construction of the City**
+---
+### **The Age of Experimentation (1863–1871)**
+* **1863** – **The Cracked Super-Soldier Project**
+* **1868** – **Discovery of Solanaceae**
+* **1870** – **The Crackies Arc**
+* **1871** – **The Great Cambridge Opium Cold War**
+---
+### **The Rise of Hustle (1882–1923)**
+* **1882** – **The Pizza War**
+* **1889** – **The Pimpin' Preacher of Preston Street**
+* **1923** – **The Bootlegger's Ballad**
+---
+### **Modern Madness (1950–Present)**
+* **1950** – **The Chrome Plated Future**
+* **1961** – **Xhosa Strippers - No Mo’ Xhosa**
+* **1975** – **P&H Milling Group – The Crack Cocaine Conglomerate**
+* **2001** – **Xhosa Strippers - Wakanda and Utata Omkhulu**
 
 Additional historical records may be added as surviving witnesses recover from the events described herein.
 
