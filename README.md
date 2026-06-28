@@ -70,6 +70,13 @@ Additional historical records may be added as surviving witnesses recover from t
 | Sir Jesse Pinkman Erle Mitre | Inventor, Eccentric | ★★★★☆ | Instant Sandwich Maker | Over-Engineering | His inventions are questionably revolutionary |
 | Utata | Mysterious Figure | ★★★☆☆ | Xhosa Strippers Legacy | Family Drama | Son of Reverend Thaddeus "Big Daddy" Lovejoy |
 
+### **Cambridge Modern People**
+| Name | Alias | Role | Notoriety | Signature Move | Weakness | Legacy |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tyreese | Utata | Legendary Pimp | ★★★★★ | Sloppy Toppy with Bill Gates | Champagne Addiction | Turned pimping into an art form |
+| William G Afton | - | Animatronic Pizza Maker | ★★★★☆ | Murderous Fucky Wucky Godzilla Rampage | Trust Issues | Revolutionized fast food with animatronic pizza makers |
+| R.Pëëzy | Captain Preston | District Founder, Tyrant | ★★★★☆ | Giant Sandwich & Sword Statue | Ego | Founded Preston, ruled with an iron fist and a sandwich |
+
 ---
 
 ## 🤝 Contributing
