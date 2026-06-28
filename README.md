@@ -56,25 +56,19 @@ Additional historical records may be added as surviving witnesses recover from t
 
 ## 🎭 Main Characters
 
-### Drake "The Wappah" Cambridge
+### **Legends of Cambridge**
+| Name | Role | Notoriety | Signature Move | Weakness | Legacy |
+| --- | --- | --- | --- | --- | --- |
+| Drake "The Wappah" Cambridge | Founder, Mayor, General | ★★★★★ | Racist "N-Word" Beam | Common Sense | Built the city on questionable choices |
+| Dr. Doofenshmirtz | Mad Scientist, Inventor | ★★★★☆ | Ethically Ambiguous Experiments | Morality | Created the Cracked Super-Soldiers |
+| Helmbecker & Perish | Businessmen, Visionaries | ★★★★☆ | Drug Kingpin Denials | Legal Scrutiny | P&H Milling Group's shadow rulers |
 
-Founder, mayor, general, and frequent participant in terrible ideas.
-
-### Dr. Doofenshmirtz
-
-Mad scientist, inventor, and creator of multiple public safety concerns.
-
-### Emmeline Peters
-
-A key figure in the early P&H storyline and one of the few people attempting to keep up with what is happening.
-
-### Helmbecker & Perish
-
-Businessmen, visionaries, and definitely not drug kingpins.
-
-### Reverend Thaddeus "Big Daddy" Lovejoy
-
-Founder of the Church of the Eternal Hustle and entrepreneur extraordinaire.
+### **Cambridge Renaissance Pioneers**
+| Name | Role | Notoriety | Signature Move | Weakness | Legacy |
+| --- | --- | --- | --- | --- | --- |
+| Henry Joseph Demarcus Submarine | Bootlegger, Survivor | ★★★★★ | Devil’s Tears Whiskey | Trust Issues | Son of Lady Demarcus Submarine and Joseph Henry, escaped P&H in the world's first submarine |
+| Sir Jesse Pinkman Erle Mitre | Inventor, Eccentric | ★★★★☆ | Instant Sandwich Maker | Over-Engineering | His inventions are questionably revolutionary |
+| Utata | Mysterious Figure | ★★★☆☆ | Xhosa Strippers Legacy | Family Drama | Son of Reverend Thaddeus "Big Daddy" Lovejoy |
 
 ---
 
