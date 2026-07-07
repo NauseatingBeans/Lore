@@ -1,6 +1,6 @@
-## **🔥 The 1800s: A Decade-by-Decade Descent into Madness**
+## **🔥 The 1800s: A Decade by Decade Descent into Madness**
 
-Welcome back, intrepid explorer of Cambridge’s **illustrious** past. Today we venture into the **1800s** were a **century-long bender** of **Crack-fueled ambition, opium-laced intrigue, and pimping so prolific it should’ve been an Olympic sport**. This was the era where **morality took a coffee break**, **sentient plants had better judgment than the mayor**, and **the line between business and crime was thinner than a Crack addict’s patience**.
+Welcome back, intrepid explorer of Cambridge’s **illustrious** past. Today we venture into the **1800s** were a **century long bender** of **Crack fueled ambition, opium laced intrigue, and pimping so prolific it should’ve been an Olympic sport**. This was the era where **morality took a coffee break**, **sentient plants had better judgment than the mayor**, and **the line between business and crime was thinner than a Crack addict’s patience**.
 
 Let’s dive in.
 
@@ -13,7 +13,7 @@ Let’s dive in.
 Cambridge, Ontario, was **officially founded in 1858** and it was a time of **exploitatio... uhh I mean Exploration!**, as settlers realized they’d built their town atop a **massive underground Crack reserve**. The native peoples, wisely, had **avoided digging too deep** (because, you know, **Crack**). But the settlers? They saw **"fertile" soil** and **hella dollar signs**!
 
 - **1801-1850: The Land Before Morality**
-  The area now known as Cambridge was **originally inhabited by the German peoples** (See: The Founding of Cambridge, 1858), who had the good sense to **not go poking around underground**. The jewish settlers (Again, see: The Founding of Cambridge, 1858), however, arrived with **a dream, a shovel, and zero self-preservation instincts**. Their first thought upon seeing the land? *"This soil is perfect for growing "special" poppies."* Their second thought? *"Wait, what’s that glittery stuff in the dirt?"* (Spoiler: It was **Crack**.)
+  The area now known as Cambridge was **originally inhabited by the German peoples** (See: The Founding of Cambridge, 1858), who had the good sense to **not go poking around underground**. The jewish settlers (Again, see: The Founding of Cambridge, 1858), however, arrived with **a dream, a shovel, and zero self preservation instincts**. Their first thought upon seeing the land? *"This soil is perfect for growing "special" poppies."* Their second thought? *"Wait, what’s that glittery stuff in the dirt?"* (Spoiler: It was **Crack**.)
   By the 1830s, **Drake "The Wappah" Cambridge** and **Dr. Doofenshmirtz** rolled into town, bringing with them the remnants of **"THE BEAM"**. Their first act? **reconstruction of the "N-Word Weapon"**, a contraption so morally bankrupt it **literally carved Cambridge into existence**. (We don’t talk about it. But we also **never stop talking about it**.)
 
 - **1858: The Official Founding (and the Unofficial Start of the Crack Trade)**
@@ -54,7 +54,7 @@ The **1890s** were Cambridge’s **Gilded Age** if by "gilded," you mean **"cove
 - **The P&H Milling Group’s Monopoly**
   By the 1890s, the **P&H Milling Group** had **cornered the market** on **Crack, opium, and pimping**. Their **vertical integration** was the stuff of **business school case studies (if business schools taught classes on how to run a drug empire)**. Their **lobbyists ensured that any laws against their operations were "lost in the mail."**
   
-- Their **headquarters**, a **towering monstrosity of brick and hubris** (for now), dominated the Cambridge skyline. The building’s **architecture was a mix of Gothic and "we built this with drug money,"** complete with **stained-glass windows depicting scenes from the Opium Cold War** and a **giant neon sign that read "P&H: Because God Helps Those Who Help Themselves to the Crack."** because they are so powerful that they aren't worried about lawsuits from a "washed up pimp".
+- Their **headquarters**, a **towering monstrosity of brick and hubris** (for now), dominated the Cambridge skyline. The building’s **architecture was a mix of Gothic and "we built this with drug money,"** complete with **stained glass windows depicting scenes from the Opium Cold War** and a **giant neon sign that read "P&H: Because God Helps Those Who Help Themselves to the Crack."** because they are so powerful that they aren't worried about lawsuits from a "washed up pimp".
 
 - **The Solanaceae’s Silent Judgment**
   The **Solanaceae plants**, now **fully integrated into Cambridge society** (from the shadows), had **given up on intervening**. Instead, they **watched, judged, and occasionally released purpling mist (again: straight Wock) into the homes of particularly egregious offenders**. The city’s residents **learned to live with the plants’ silent disapproval**, like a **disappointed parent who had long since stopped trying to discipline their wayward children**.
