@@ -25,7 +25,7 @@ Cambridge sits atop a **massive underground Crack reserve**, discovered in 1868 
 
 - The **Great Cambridge Opium Cold War of 1871**, the shadow conflict. It ended when the **Solanaceae plants** (now sentient) marched into town, released a **"purpling" mist (Wockhardt in gaseous form, plants may be green but they only sip purple)**, they left a note that read: *"yall some dumb bitches try harder next time."*
 
-- The **Crackies Arc**, where an entire generation of Cambridge citizens became addicted to **Crack infused baked goods**, leading to a city-wide """sugar""" rush that lasted **three weeks straight**.
+- The **Crackies Arc**, where an entire generation of Cambridge citizens became addicted to **Crack infused baked goods**, leading to a citywide """sugar""" rush that lasted **three weeks straight**.
 
 ### **⛪ The Founding of (and later destruction of) The Church of the Eternal Hustle**
 Founded in **1889** by **Reverend Thaddeus "Big Daddy" Lovejoy**, a former pimp turned preacher, the **Church of the Eternal Hustle**. The church’s doctrine includes:
@@ -56,4 +56,5 @@ This wiki is **not for the faint of heart**. It is a **labyrinth**, all presente
 ---
 ## **📜 The Archivist’s Final Words (For Now)**
 
-This wiki is my **gift to the world**—a **beacon of truth** in a sea of lies. Treat it with the **reverence it deserves**. Use it **wisely**. Use it **irresponsibly**. But above all, **use it to get bitches n’ hoes**.
+This wiki is my **gift to the world** a **beacon of truth** in a sea of lies. Treat it with the **reverence it deserves**. Use it **wisely**. Use it **irresponsibly**. But above all, **use it to get bitches n’ hoes**.
+
