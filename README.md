@@ -1,6 +1,6 @@
 # 📜 Lore
 
-> *"History is written by the victors. Cambridge history is written by whoever was most sleep-deprived at 3 AM."*
+> *"History is written by the victors. Cambridge history is written by whoever was most sleep deprived at 3 AM."*
 
 A completely factual, 100% historically accurate, definitely peer-reviewed account of the founding, development, and ongoing descent into madness of Cambridge, Ontario.
 
@@ -11,7 +11,7 @@ This repository serves as the official archive of **Cambridge Lore™**, documen
 * Drake "The Wappah" Cambridge and his questionable leadership decisions
 * Dr. Doofenshmirtz's ethically ambiguous scientific breakthroughs
 * The Great Cambridge Opium Cold War
-* The Cracked Super-Soldier Program
+* The Cracked SuperSoldier Program
 * The Church of the Eternal Hustle
 * Numerous incidents that absolutely DID happen in real life
 
@@ -21,7 +21,7 @@ This repository serves as the official archive of **Cambridge Lore™**, documen
 
 This document has **not** been approved by the:
 
-> **Cambridge-P&H Historical Verification Crew**
+> **CambridgeP&H Historical Verification Crew**
 
 Any resemblance to actual historical events, organizations, people, cities, governments, timelines, laws of physics, or common sense is entirely coincidental.
 
@@ -32,7 +32,7 @@ Any resemblance to actual historical events, organizations, people, cities, gove
 | File                                    | Description                                           |
 | --------------------------------------- | ----------------------------------------------------- |
 | `CambridgeLore.txt`                     | Original complete lore document                       |
-| `CambridgeLore(Spaced4Readability).txt` | Readability-enhanced version with improved formatting |
+| `CambridgeLore(Spaced4Readability).txt` | Readability enhanced version with improved formatting |
 
 ---
 
@@ -44,7 +44,7 @@ Any resemblance to actual historical events, organizations, people, cities, gove
 * **1859** – **Construction of the City**
 
 ### **The Age of Experimentation (1863–1871)**
-* **1863** – **The Cracked Super-Soldier Project**
+* **1863** – **The Cracked SuperSoldier Project**
 * **1868** – **Discovery of Solanaceae**
 * **1870** – **The Crackies Arc**
 * **1871** – **The Great Cambridge Opium Cold War**
